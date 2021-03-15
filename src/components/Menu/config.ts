@@ -28,7 +28,7 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'waterswap.finance/pools',
+    href: 'https://waterswap.finance/pools',
   },
   // {
   //   label: 'Pools',
