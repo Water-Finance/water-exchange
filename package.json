@@ -83,7 +83,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= npm run build",
+    "build": "cI=false npm run build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
